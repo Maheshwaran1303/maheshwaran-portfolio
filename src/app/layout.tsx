@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 
   creator: "Maheshwaran",
 
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://maheshwaran-portfolio-lime.vercel.app"),
 
   openGraph: {
     type: "website",
